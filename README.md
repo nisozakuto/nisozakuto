@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Niso Zakuto
+### Hi there 👋  My name is Niso Zakuta
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nisozakuto)
