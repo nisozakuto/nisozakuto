@@ -3,6 +3,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nisozakuto)
 
+
+- 🔭 I’m currently working on Web Applications
+- 🌱 I’m currently learning Node.JS, React
+
 <!--
 **nisozakuto/nisozakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
