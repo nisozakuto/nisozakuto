@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nisozakuto&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nisozakuto)
 
 <!--
 **nisozakuto/nisozakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
