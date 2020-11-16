@@ -1,9 +1,6 @@
 ### Hi there 👋  My name is Niso Zakuto
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nisozakuto)
-
-
 - 🔭 I’m currently working on Web Applications
 - 🌱 I’m currently learning Node.JS, React
 
